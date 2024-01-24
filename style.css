@@ -27,3 +27,8 @@ a{
     font-size: 25px;
     color: black;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+}
